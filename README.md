@@ -5,7 +5,7 @@ Repo for weekly writing assignments
 
 1. Navigate to the particular file on Github.com (not Prose.io)
 2. Click on the "History" button on the top-right part of the Github window (See Fig. 1.)
-![Click file "History" button]({{site.baseurl}}/images/Selection_065.png)
+![Click file "History" button](/images/Selection_065.png)
 3. item
 
 
