@@ -6,7 +6,10 @@ Repo for weekly writing assignments
 1. Navigate to the particular file on Github.com (not Prose.io)
 2. Click on the "History" button on the top-right part of the Github window (See Fig. 1.)
 ![Click file "History" button](/images/Selection_065.png)
-3. item
+(Fig. 1. Click on the file's "History" button.)
+3. Click on the file history ID code (See Fig. 2)
+![Click on the file's ID code.](/images/Selection_066.png)
+(Fig. 2. Click on the file's ID code.)
 
 
 
