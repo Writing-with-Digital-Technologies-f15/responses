@@ -10,6 +10,9 @@ Repo for weekly writing assignments
 3. Click on the file history ID code (See Fig. 2)
 ![Click on the file's ID code.](/images/Selection_066.png)
 (Fig. 2. Click on the file's ID code.)
+4. Hover over the line that you want to comment on, and you will see a blue box with a "+" sign in it. Click on this box to comment. (See Fig. 3.)
+![Click on the blue box to comment on that line.](/images/Selection_067.png)
+(Fig. 3. Click on the blue box to add a comment.)
 
 
 
