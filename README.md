@@ -5,7 +5,7 @@ Repo for weekly writing assignments
 
 **1. Navigate to the particular file on Github.com (not Prose.io)**
 
-<hr>
+___
 
 **2. Click on the "History" button on the top-right part of the Github window (See Fig. 1.)**
 
