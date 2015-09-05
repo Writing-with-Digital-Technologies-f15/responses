@@ -25,4 +25,4 @@ Repo for weekly writing assignments
 ![Click "Comment" to publish it.](/images/Selection_068.png)
 (Fig. 4. Click "Comment" to publish it.)
 
-You can also provide overall feedback, guiding comments, etc. using the comment box below the file.
+You can also provide overall feedback, guiding comments, etc. using the comment box below the file (as seen in Fig. 3).
