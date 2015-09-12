@@ -1,5 +1,4 @@
-##
-SUMMARY: 
+## SUMMARY: 
 Keim, Brandon. (Oct. 2013). The science of handwriting. Scientific American Mind, pp. 54-62
 
 _The Science of Handwriting_ by Brandon Keim
