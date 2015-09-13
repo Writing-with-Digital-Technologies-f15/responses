@@ -1,3 +1,8 @@
 ##Summaries
 ###The Science of Handwriting
 Brandon Keim notes that handwriting unifies our hands, eyes, and attention at a single point in space and time. Reading the letters we penned activates the neurological instructions for penning it. Keim references to Karin James when he mentions that seeing handwritten letters heightens activity in visual areas as well as triggering the expected motor activity writing it. He sees writing as an ever shifting interplay between knowledge and our thoughts.
+###On the Relationship Between Old and New Technologies
+
+
+
+
