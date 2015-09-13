@@ -17,3 +17,7 @@ Haas refers to Bijker as she attempts to help understand the three case studies 
 Bradley Dilger (2010) mainly focused on an international style in _<table>ing the Grid_, which he quoted Jan Middendorp as an attempt to "obtain maximum aesthetic effect by the simplest means: black and white photography, unjustified, homongeneous blocks of sanserif text, a conscious use of white space as a compositional element and the grid as a guiding principle" (pg. 215). 
 
 Patrick Brosset (2015) believes the goal of a grid is to serve as a base for Web content to stay aligned and evenly spaced, mentioned in his post titled "The future of layout with CSS: Grid layouts." CSS makes it possible to define the grids for Web content to go into, allowing for optimized design without compromising the ability to manipulate content.
+
+## Connections
+
+
