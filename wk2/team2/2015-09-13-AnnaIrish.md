@@ -9,7 +9,7 @@ Haas describes that oversimplifying technology neglets a deeper understanding of
 
 _tableing the grid_ by Bradley Dilger:
 
-In _tableing the grid_, Dilger mentions a brief history of the unstandardized, chaotic Internet before table came out. <table> markdown influenced early design styles and international styles, allowing for pages to be sized according to their contents. Thanks to table, the grid became the popular layout on many websites including Facebook, CNN, Wikipedia, etc. As the Web advanced, CSS became a language for visual design, straying away from HTML, but still resonating with table's grid-based deisigns.  
+In _tableing the grid_, Dilger mentions a brief history of the unstandardized, chaotic Internet before table came out. Markdown in table influenced early design styles and international styles, allowing for pages to be sized according to their contents. Thanks to table, the grid became the popular layout on many websites including Facebook, CNN, Wikipedia, etc. As the Web advanced, CSS became a language for visual design, straying away from HTML, but still resonating with table's grid-based deisigns.  
 
 _The future of layout with CSS: Grid Layouts_ by Patrick Brosset:
 
