@@ -2,7 +2,7 @@
 ###The Science of Handwriting
 Brandon Keim notes that handwriting unifies our hands, eyes, and attention at a single point in space and time. Reading the letters we penned activates the neurological instructions for penning it. Keim references to Karin James when he mentions that seeing handwritten letters heightens activity in visual areas as well as triggering the expected motor activity writing it. He sees writing as an ever shifting interplay between knowledge and our thoughts.
 ###On the Relationship Between Old and New Technologies
-
+Christina Haas introduces two models in regards to old and new technologies. The first one is the simple replacement model, which assumes that there is a clear difference between the old and the new technologies, and that new technologies simply replace the older ones theoretically and in practice. The second model is the straightforward progress model, where new technologies are more advanced and efficient, and powerful, thus producing the view that new is better.
 
 
 
