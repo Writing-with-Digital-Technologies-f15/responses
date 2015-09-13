@@ -14,3 +14,4 @@ Haas refers to Bijker as she attempts to help understand the three case studies 
 
 ### Grids and CSS
 
+Bradley Dilger (2010) mainly focused on an international style in _<table>ing the Grid_, which he quoted Jan Middendorp as an attempt to "obtain maximum aesthetic effect by the simplest means: black and white photography, unjustified, homongeneous blocks of sanserif text, a conscious use of white space as a compositional element adn the grid as a guiding principle" (pg. 215). 
