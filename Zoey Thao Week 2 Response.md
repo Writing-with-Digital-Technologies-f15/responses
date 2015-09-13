@@ -20,5 +20,5 @@ Patrick Brosset (2015) believes the goal of a grid is to serve as a base for Web
 
 ## Connections
 
-The main connection I saw between all four readings was the coexistence of old and new technologies. One example of this coexistence is Haas' reference to the blue sheet used in the abortion clinic; it was created by new technologies, but the information is filled in by hand written answers. 
+The main connection I saw between all four readings was the coexistence of old and new technologies. One example of this coexistence is Haas' reference to the blue sheet used in the abortion clinic; it was created by new technologies, but the information is filled in by hand written answers. The grid can be seen as a new technology to help manage Web content, which only had HTML to manage back then, thus introducing CSS, as well as other different softwares in the future, into the picture. 
 
