@@ -22,15 +22,15 @@ Finally, Haas discusses how four theoretical concepts of Bijker can further comp
 
 I think this paper really highlights the importance of context when studying a topic. Both of Vygotsky and Bijker’s concepts refer in different ways to the idea of knowing the background and history of technology, whether it’s what influenced the development of a technology or how different people perceive it. These concepts could also act as overarching themes for this week’s other readings.
 
-###<table>ing the grid
+###tableing the grid
 
-Bradley Dilger describes how the <table> function helped translate the international typographic style common in Switzerland to the web. This style, which emphasized objectivity and efficiency, was easy to apply with early, text-friendly HTML (Dilger 214).
+Bradley Dilger describes how the table function helped translate the international typographic style common in Switzerland to the web. This style, which emphasized objectivity and efficiency, was easy to apply with early, text-friendly HTML (Dilger 214).
 
-Dilger goes on to describe how the creators of the visual design language CSS were influenced by <table>. Just like <table>, the design of CSS “boosted the ability of designers to create Web sites with layouts that focused on type” (Dilger 220). Page elements in CSS are rectangular and positioned along an xy axis, mimicking the grid of <table>. CSS also encouraged consistency, like the international style, by encouraging the creation of template style sheets.
+Dilger goes on to describe how the creators of the visual design language CSS were influenced by table. Just like table, the design of CSS “boosted the ability of designers to create Web sites with layouts that focused on type” (Dilger 220). Page elements in CSS are rectangular and positioned along an xy axis, mimicking the grid of table. CSS also encouraged consistency, like the international style, by encouraging the creation of template style sheets.
 
-Beyond simply improving the visual design of web pages, Dilger also connects <table> to improving the communication of messages and subsequent thought over the internet. The <table>, and eventually the grid-based CSS, was a way to standardize communication in a rational manner. Dilger also briefly mentions the ability to scale table contents based on table size, which translated well to monitors and browsers of different sizes. (Dilger 216) I thought this mention was particularly applicable to web design today, as the importance of responsive design that function on desktop computers, smartphones, and tablets is greater than ever. 
+Beyond simply improving the visual design of web pages, Dilger also connects table to improving the communication of messages and subsequent thought over the internet. The table, and eventually the grid-based CSS, was a way to standardize communication in a rational manner. Dilger also briefly mentions the ability to scale table contents based on table size, which translated well to monitors and browsers of different sizes. (Dilger 216) I thought this mention was particularly applicable to web design today, as the importance of responsive design that function on desktop computers, smartphones, and tablets is greater than ever. 
 
-Dilger concludes by describing the drawbacks of a <table>-based, standardized web design based on the grid. Essentially, this standard can lead to uniformity and boredom when taken too far. Dilger calls for alternatives to grid-based layouts that embody the <table> values of objectivity and efficiency without always limiting design to a strict grid.
+Dilger concludes by describing the drawbacks of a table-based, standardized web design based on the grid. Essentially, this standard can lead to uniformity and boredom when taken too far. Dilger calls for alternatives to grid-based layouts that embody the table values of objectivity and efficiency without always limiting design to a strict grid.
 
 ###The Future of Layout with CSS: Grid layouts
 
