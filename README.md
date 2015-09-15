@@ -1,6 +1,6 @@
 # Responses
 Repo for weekly writing assignments.
-
+![optional indeed]({{site.baseurl}}//writ4662wf15.png)
 ## Github-flavored Markdown
 
 We will be using Prose.io to write our posts. To help you get up to speed with Markdown, please refer to Github's documentation: "[Markdown Basics](https://help.github.com/articles/markdown-basics/ "Link to Github Markdown documentation page.")."
