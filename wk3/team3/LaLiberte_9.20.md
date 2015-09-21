@@ -20,6 +20,10 @@ I wonder when the folder/directory structure for website directories first came 
 ##Connections
 I think Pilgrim's piece, and the discussion of error handling and backwards-compatability, has a clear connection to the new technology/old technology concept from last week. I found it really interesting how W3C spent so much time and energy developing XML as the new big thing, especially when it dealt so poorly with user error. User scaffolding and error recorvery have come up often in my technical writing courses, and it boggles me that a group of people would intentionally create a language that refuses to work if the author makes any errors. That sort of thing provides a huge entry barrier and makes the adoption of something like XML that much harder for early users.
 
-Duckett's book is a pretty example of user scaffolding—even the design of the book begins with assuming readers know very little about how the web works, and Duckett includes not just a description of each element's function, but also an example. 
+Duckett's book is a pretty example of user scaffolding—even the design of the book begins with assuming readers know very little about how the web works, and Duckett includes not just a description of each element's function, but also an example.
 
+##HTML Hand-coding
+![LaLiberte HTML1]({{site.baseurl}}/images/wk3/team3/laliberte_j_html1.jpg)
+![LaLiberte HTML2]({{site.baseurl}}/images/wk3/team3/laliberte_j_html2.jpg)
 
+Sorry for potato quality—last minute scanner snafus are not my jam.
