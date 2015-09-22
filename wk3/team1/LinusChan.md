@@ -1,5 +1,3 @@
-## A New Post
-
 
 ## How did we get here? 
 
@@ -14,10 +12,7 @@ This video was an brief overview of how a browser was actively rendered. It show
 
 
 
-
 ##HTML&CSS Chapter 1 and 4
 
 Jon Duckett in Chapter 1 and Chapter 4 of his book, “HTML&CSS”, covers how websites are constructed through HTML. HTML is constructed through the use of various tags which utilize symbols such as the < and the > in order to organize the web page. This concept is the core way that HTML is implemented. Through the use of tags, the author of a webpage is able to consolidate the various pages that make up a website into distinct categories such as <h1>, or <h2>. Then through the use of links, which compromises another vital part of HTML, a user is able to navigate through the website effectively. Duckett discusses at length the importance of Universal or qualified URL links and relative URL links. These are tools that a web author can use which direct a user to a location that is desired. A Universal qualified HTML link is a link that directs a user to a website and it is often written with the full link name after the “href” tag. However, the relative URL link takes the user to various areas within the website. This enables a user to quickly navigate the website through a clear order of hierarchy. These two chapters form a solid basis on how HTML structures look. They give a brief summary of how websites are constructed and how navigation in a website functions. 
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
