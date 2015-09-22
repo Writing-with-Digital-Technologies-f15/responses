@@ -8,6 +8,7 @@ Pilgrim had a really thorough take on how some key elements in HTML5 came to be.
 Ch 1
 The first chapter describes essentially what we’re going to be learning about in this book.  I appreciate how the chapters will be structured, and even in this first chapter, it does a good job of describing what HTML is and how it works.
 
+<<<<<<< HEAD
 Ch 2
 Here we went through a lot of coding for writing itself.  There were some elements which I didn’t realize were going to be necessary until I started reading this book.  Aspects such as citations and “add and delete” are elements that I don’t use that much in my everyday writing, and it was surprising to me that they were necessary to code in HTML.
 
@@ -17,3 +18,7 @@ This chapter talked about the different kinds of lists and ways in which you can
 Ch 4
 Here Duckett discusses how to create a piece of text with a hyperlink, either to some other web page, some other website, or even some other part of the page which you are on.  Having worked on web publishers before, I’ve always gotten how to “make” hyperlinks, so it’s really interesting to see how the hyper-text itself actually makes that happen.  We start to see how to be efficient with a building a site, and how HTML helps you create one quickly, such as being able to create links to different pages in a site without even having created a name for it yet.
 
+=======
+Ch 4
+Here Duckett discusses how to create a piece of text with a hyperlink, either to some other web page, some other website, or even some other part of the page which you are on.  Having worked on web publishers before, I’ve always gotten how to “make” hyperlinks, so it’s really interesting to see how the hyper-text itself actually makes that happen.  We start to see how to be efficient with a building a site, and how HTML helps you create one quickly, such as being able to create links to different pages in a site without even having created a name for it yet.
+>>>>>>> origin/master

@@ -1,0 +1,29 @@
+##Summaries
+###How did we get here?
+Pilgrim begins by quoting a Mozilla developer, who discusses the interplay between implementations and specifications. This quote is intended as a sort of overarching thought on how launching a product interacts with user feedback, and how neither can happen first or second.
+
+Pilgrim then briefly summarizes the technicalities of MIME types; specifically, MIME types (or content types) are the headers sent to your web browser before it receives the page markup. These MIME types tell your web browser how to render a web page. The importance of MIME types to this article is that MIME types tell your browser what language (HTML, XML…) to use to interpret page markup. There are also MIME types for images, CSS stylesheets, videos, and many other pieces of web content.
+
+After reviewing MIME types, Pilgrim discusses the early history of `<img>`, going back to when it was first proposed by Marc Andreessen in 1993. Each reply to the `<img>` proposal email chain gets a brief commentary by Pilgrim, who connects the discussion and counter-proposals with current and past web markup. Pilgrim sums up the reason why the `<img>` element caught on as simply, “The [codes] that win are the ones that ship.” Marc Andreessen proposed the `<img>` element, brought it up for discussion, dismissed the alternatives, and shipped it with Mosaic v.0.10. 
+
+Finally, Pilgrim discusses why HTML wasn’t replaced by XML. In three words: draconian error handling. HTML tends to be very forgiving of markup errors—the web page will still render to the best of the browser’s ability. As a result, many (if not most) web pages written in HTML have some error the author did not recognize because it wasn’t a fatal error. XML was intentionally written so that any errors in markup were fatal, and would give the end user an error instead of the web page. This made XML and XHTML unpopular with web authors and, according to Pilgrim, essentially nailed XHTML’s coffin shut, as initial versions of the unforgiving XML had few perks compared to the familiar HTML. The World Wide Web Consortium (W3C), a governing body of web languages, was slow to recognize this reality. This lead to the creation of the Heb Hypertext Applications Technology (WHAT) Working Group, which, beginning in 2004, pushed forward on Web Applications/HTML5 after W3C dropped HTML development to work on XHTML. In 2006, the W3C and the WHAT Reading Group began working together on HTML5, and in 2009, the W3C stopped working on XHTML.
+
+My biggest question while reading Pilgrim’s piece is about the websites that did adopt XML/XHTML over HTML. XML/XHTML is apparently a dead end now, so do these web authors just maintain their sites in a nitpicky legacy format? How many people actually made XML/XHTML sites? (Was it just people who helped develop XML…?)
+
+###HTML&CSS Chapters 1 & 4
+Duckett’s Chapter 1: HTML begins by looking at the very basic building blocks of HTML: elements (characters inside angled brackets) and tags (the usually paired pieces that make up elements). These elements tell web browsers what kind of information is contained between tags, and can tell browsers to display this information in a particular way. Attributes provide supplementary information about elements, like identifying the language used to write a paragraph. `<body>` and `<title>` elements describe content in the main browser window and the tab name of the page, respectively. `<head>` elements, meanwhile, contain information that is not displayed, but describes the page contents. Duckett also walks through how to make a web page on a PC and a Mac.
+
+In Chapter 4: Links, Duckett describes the `<a>` element and the href element, which allows you to create in-text links. He also describes the difference between an absolute URL, which is the entire URL for a website, and a relative URL, which is an abbreviated URL you can use when linking within the same website. Duckett also describes the structure of a website directory, where code for separate pages are placed in different folders, and the homepage is identified as index.html. Duckett also describes how to use the `<a>` element to create links that start up email programs, open in new windows, and link to a specific part of a page (anchor links).
+
+I wonder when the folder/directory structure for website directories first came about. How big were early websites? Did they introduce folders from the beginning, or as websites got bigger and bigger? The web is one big testament to iterative design, so I wonder what very early HTML or markup looked like. What did web pioneers have to work with?
+
+##Connections
+I think Pilgrim's piece, and the discussion of error handling and backwards-compatability, has a clear connection to the new technology/old technology concept from last week. I found it really interesting how W3C spent so much time and energy developing XML as the new big thing, especially when it dealt so poorly with user error. User scaffolding and error recorvery have come up often in my technical writing courses, and it boggles me that a group of people would intentionally create a language that refuses to work if the author makes any errors. That sort of thing provides a huge entry barrier and makes the adoption of something like XML that much harder for early users.
+
+Duckett's book is a pretty example of user scaffolding—even the design of the book begins with assuming readers know very little about how the web works, and Duckett includes not just a description of each element's function, but also an example.
+
+##HTML Hand-coding
+![LaLiberte HTML1]({{site.baseurl}}/images/wk3/team3/laliberte_j_html1.jpg)
+![LaLiberte HTML2]({{site.baseurl}}/images/wk3/team3/laliberte_j_html2.jpg)
+
+Sorry for potato quality—last minute scanner snafus are not my jam.
