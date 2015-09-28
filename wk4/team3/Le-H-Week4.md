@@ -6,6 +6,3 @@ Like with just using only HTML, this was a practice for me in paying attention t
 
 ## Bio Primer (HTML and CSS, CSS Pure)
 I was originally going to go with Bootstrap, but shamefully I didn't understand quite what to do with it after I downloaded the zip file, even after reading the start page. So instead, I went for CSS Pure. I felt like its layout and setup was more clear on what you can do with it, such as button, tables, and layouts. For my goals with Pure like the handout suggests for writing practices, I decide to try adding a button and a grid. Once more I learn that ordering in the head tag is very important. I used my code from the primer without any framework, and I realized I had to put the link that allows you to use Pure in the right placement of the head, or else my prior CSS work would break and not show. So, for the buttons I thought simply copying and pasting the code would do the job, but it required a bit more work than that. Nothing too difficult though, I just needed to apply what I new about about creaking links in HTML to make them functional.
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
