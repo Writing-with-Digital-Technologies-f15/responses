@@ -1,0 +1,11 @@
+## Writing CSS
+
+I started with the "no framework" CSS and I was surprised at how much fun it was to play around with! Some difficulties I had: forgetting to close the style element so none of the CSS showed up at first; some of the more complicated stuff I tried didn't really work, like the z index. I also had some trouble getting the heading 1 to center. And it's kind of tedious to have to save and open a new html e-file every time I want to see what a change I made looks like. I also published the document to my repo before realizing that I could adjust the size of the photo...so it is a little larger than it needs to be. 
+
+Some CSS things I think are super cool and helpful: centering! Padding! It makes the page look totally different and way better. I messed around with the colors way more than I should have and therefore my final result is much brighter than a professional website probably should be. Playing with fonts was also fun. 
+
+I confess that I am not really sure how to use Bootstrap or PureCSS. I looked at both of them for a long time but couldn't figure out how to apply the information I was seeing to my own webpage. I am hoping we will discuss more of that in class. Currently, my framework bio is using a layout code written by PureCSS, but it didn't actually change anything about my webpage except a little bit in the links sections. I tried to rewrite my html to fit the CSS somewhat but it didn't work. I feel like there is probably an obvious solution that I just could not see. 
+
+I think that using a framework is helpful if you are not as well-versed in CSS and would prefer to stick your webpage info into a pre-determined format. Since I don't feel like I know enough about webpage design to create a beautiful, well-organized, professional site, something like PureCSS could come in handy once I learn how to use it. Then I don't have to worry as much about the layout as about the information I am presenting. It also lets you work faster as you don't have to build everything from scratch. 
+
+In contrast, working without a framework gives you many more opportunities to experiement and try new ideas and see if they work out. It also offers more freedom to organize and construct your page in a way that is unique to your vision. If you have the CSS knowledge, I think this would be the more fun option. 
