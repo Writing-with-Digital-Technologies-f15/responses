@@ -20,7 +20,7 @@ Duckett and the HTML5 boilerplate discuss some difficulties in implementing back
 
 I have a months-long running battle with the `<span>` element. As part of my work with CLA websites, I show department administrators how to use a content managment system, and how to transfer over content from their old site or other online documents into the new one. The `<span>` element tends to show up when these admins don't strip the formatting of copied and pasted text (and/or they don't paste as plain text). The `<span>` element, in my experience, brings in weird extra formatting like special text heights and colors that render strangely. I know the element [allows specific targeting of areas](https://html.spec.whatwg.org/multipage/semantics.html#the-span-element), so I'd like to find out more about the original purpose and existing purpose of the element. Are people using the element as intended? I think I've seen it used to add highlighting formatting, so I wonder if it pre-dates or works with CSS styling.
 
-I use this element (or don't) as part of adjusting formatting, but it's use seems really general. Was there a particular issue this element was created to address?
+I use this element (or don't) as part of adjusting formatting, but its use seems really general. Was there a particular issue this element was created to address?
 
 ###Idea B: `<mark>` HTML semantic element
 
