@@ -8,7 +8,7 @@ HTML5 introduces new elements that help define the structure of a webpage, but a
 
 ## Historicizing Project
 
-I've always been interested in improving my own skills regarding CSS. So, from provided suggestions for project ideas, I decided I wanted to do my project on CSS reset style. As I am also taking a visual design class, style sheets for web pages are of interest as you have to consider the rhetorical situation of a web page when you create style sheets. Of course, this means that I will also be discussing other ways of creating a structure for web pages, such as in-line coding. 
+At first, I thought about doing my project on buttons, but it was hard finding resources about it. As I've always been interested in improving my own skills regarding CSS, I'm considering doing my project on CSS reset style. As I am also taking a visual design class, style sheets for web pages are of interest as you have to consider the rhetorical situation of a web page when you create style sheets. Of course, this means that I will also be discussing other ways of creating a structure for web pages, such as in-line coding. 
 
 ### Sources
 
