@@ -9,8 +9,4 @@
     Likewise, the implementation of Menus in Andrew was messy in it's own right. There were issues with menu unwieldiness, middle finger cursor icons and even right stacking menus vs left stacking arguements. These design choices weren't simple and there simply weren't real world examples to derive a coherent bias towards. At times, people who developed muscle memory to menu commands pushed back violently against changes. It was difficult, and some people thought that menus were done completely incorrectly as time progressed. However, One man, (the manager of the UIG), made the decision. He was called the "User Interface 'Czar'" and he decided that left stacking would be implemented throughout all of CMU. 
     These various thoughts, emotions and 'best practices' theories were all vital in the creation of the mediation tools that we use today. The history of the GUI isn't an easy one to track down, but it still is a vital one. We might have to fight through "sheer human cussedness" to get things done, but now, more than ever we must realize that all voices are powerful, no matter how much they contradict each other. That the artifacts and tools that we create today, will influence people who use computers and who make huge decisions both now and forevermore. 
     	
-##HTML5 
-
-
-
-    	
+##HTML5
