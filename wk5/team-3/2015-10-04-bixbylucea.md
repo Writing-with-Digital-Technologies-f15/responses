@@ -10,12 +10,16 @@ Duckett’s chapter “HTML 5 Layout” in HTML and CSS details the ways that ht
 
 ## Historicizing Pitches 
 My first pitch is for the CSS element “Center,” or if that is too narrow than just general CSS alignment strategies. Centering is used not only on the web but also in print media, and it is important for creating a hierarchy in a text—making a title, heading, or other information stand out to a reader. “Center” is a web design tool that can also serve to make a page look more organized, appealing, and readable. It creates a balance on a page that is sometimes desired by a designer in order to get their point across. An aspect of community knowledge regarding “Center” is that, when a reader sees a centered line in the middle of a sea of text, they know it is probably a heading or something else that requires attention and focus. It is the designer’s job to gain the necessary design skills to put alignment tools to the best possible use to create a web page that is easy to read and looks balanced. There are choices between right and left alignment and centered, and those are decisions a designer must make when writing CSS. I would like to explore the development of the “Center” element and how/how often it is generally used by web designers today. Is left alignment favored for headings? Does center really make text stand out? What challenges are involved with the “Center” element? 
+
 Sources: 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/center
+
 http://www.w3.org/Style/Examples/007/center.en.html
+
 http://davidwalsh.name/css-vertical-center
 
 My second pitch is to learn about the hgroup element in html5. It is a new tool in html5 and according to Duckett many designers disregard it. I would like to explore why it was developed, how it can be used, and how it is helpful in writing code. Does the community of designers generally prefer hgroup or separate headings? Does hgroup limit any uses of headings? Why does this community feel the way it does about hgroup? Hgroup is sort of a hidden element: a reader does not see it being used. So the skills behind it belong mainly to the designers who choose whether or not to use it. 
+
 Sources: http://www.w3.org/TR/html-markup/hgroup.html
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup
