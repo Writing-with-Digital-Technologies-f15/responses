@@ -4,7 +4,7 @@ Haas refers to Vygotsky as she states that "writing is a psychological tool that
 
 ## HTML5
 
-HTML5 introduces new elements that help define the structure of a webpage, but are not very compatible with older browsers. Ducket compares the HTML5 to the traditional layouts, noting the use of _div_ versus separate elements in HTML5 pertaining to their purpose. He also discusses the new elements of HTML5, and advises CSS coding to render them in older browsers, as well as Javascript to style the elemetns in older browsers.
+HTML5 introduces new elements that help define the structure of a webpage, but are not very compatible with older browsers. Ducket compares the HTML5 to the traditional layouts, noting the use of _div_ versus separate elements in HTML5 pertaining to their purpose. He also discusses the new elements of HTML5, and advises CSS coding to render them in older browsers, as well as Javascript to style the elements in older browsers.
 
 ## Historicizing Project
 
