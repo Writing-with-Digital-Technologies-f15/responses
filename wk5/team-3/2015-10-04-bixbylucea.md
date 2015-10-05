@@ -14,7 +14,9 @@ Sources:
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/center
 http://www.w3.org/Style/Examples/007/center.en.html
 http://davidwalsh.name/css-vertical-center
+
 My second pitch is to learn about the hgroup element in html5. It is a new tool in html5 and according to Duckett many designers disregard it. I would like to explore why it was developed, how it can be used, and how it is helpful in writing code. Does the community of designers generally prefer hgroup or separate headings? Does hgroup limit any uses of headings? Why does this community feel the way it does about hgroup? Hgroup is sort of a hidden element: a reader does not see it being used. So the skills behind it belong mainly to the designers who choose whether or not to use it. 
 Sources: http://www.w3.org/TR/html-markup/hgroup.html
+
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup
 
