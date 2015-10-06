@@ -9,4 +9,37 @@
     Likewise, the implementation of Menus in Andrew was messy in it's own right. There were issues with menu unwieldiness, middle finger cursor icons and even right stacking menus vs left stacking arguements. These design choices weren't simple and there simply weren't real world examples to derive a coherent bias towards. At times, people who developed muscle memory to menu commands pushed back violently against changes. It was difficult, and some people thought that menus were done completely incorrectly as time progressed. However, One man, (the manager of the UIG), made the decision. He was called the "User Interface 'Czar'" and he decided that left stacking would be implemented throughout all of CMU. 
     These various thoughts, emotions and 'best practices' theories were all vital in the creation of the mediation tools that we use today. The history of the GUI isn't an easy one to track down, but it still is a vital one. We might have to fight through "sheer human cussedness" to get things done, but now, more than ever we must realize that all voices are powerful, no matter how much they contradict each other. That the artifacts and tools that we create today, will influence people who use computers and who make huge decisions both now and forevermore. 
     	
-##HTML5
+##HTML5 Planned obsolescences
+	Internet Explorer 5.5
+    The watchword of our era should be compatability. As consumers, we believe that customization is sacred and choice is our deity. However, we, in our sheer cussedness, also maintain the belief that we deserve access to everything and anything. So, web designers are tasked with the enormous job of making all things compatable. From Mobile to Internet Explorer, from Netscape Navigator to Firefox, each person expects and continues to expect the same website. In order to do this, javascript has breathed life into compatability. By simply adding in the meta tag, content = ie edge or a meta tag for mobile viewports, HTML5 Boilerplate enables compatability for all  websites. Through HTML5 Boilerplate, obscelence is not something that is as readily considered. While Apple can discontinue old IOS versions, Android with it's own OS, web prowsers can stay despite their legacy. They might have been planned to be obsolete, but we consumers have planted our flag. We wanted our old IE browsers and designers have contoured all of their webpages for us. 
+    
+##Historicizing
+
+Pedagogy with Game design. 
+The origin of Flash 
+Game websites such as Miniclips, albino blacksheep, Kongregate, New Grounds
+
+###Flash
+http://www.w3.org/TR/WCAG20-TECHS/flash
+http://neurogadget.com/2015/10/04/adobe-flash-player-out-html5-in-what-it-means-for-users/16811
+http://www.apple.com/hotnews/thoughts-on-flash/
+
+Here's my pitch. I woud like to hisorcize the Flash in general. Due to its largess, my three 'pitches' or web technologies will be connected to Flash. 
+There are a numerous amount of practices linked to Adobe Flashplayer. When the package first came out, I remember the huge communities that developed from it. Communities such as Miniclip, Newgrounds, and even Albino Blacksheep were all incredibely popular in the 2000s. Tools centered around flash also abounded. This kickstarted the era of the online calculator, chatrooms and even website forums like Xanga, Myspace and Neopets! 
+In contrast, I'm interested in looking at the continued obselecence of flash in modern society. Steve Job's vitriolic article, "thoughts on flash"  really showed the division that begun to appear in it's history. As mobile moved forward, and these mobile devices completely lacked compatability with flash, we saw how website designs changed because of it. A competing trend that evolved, was our very own HTML5! 
+
+Through an analysis of Vygostkyians concepts, I'm curious if Flash influenced the public's understanding of the internet and the younger generation's exposure to it. On a personal basis, I have fond memories of the games that I was able to access through the internet. It became a driving force for why i would log on, how I came to understand drivers, plug-ins and even web browsers. Dare I say, I was educated through gamification?
+
+All jokes laid aside, I'm definitely considering historicizing the rise and downfall of Adobe Flash Player. Whether it's the pedagogy of game design that arose from flash, the origin of Adobe Flash Player or the communities that arose because of that oh-so influential plug-in, I think it's a juicy topic to dig into! 
+
+
+
+
+
+
+
+
+    
+    
+
+
