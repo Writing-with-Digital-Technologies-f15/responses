@@ -6,7 +6,7 @@
     A key point of conflict was the user advocate group. These user advocates were consultants who were starkly different to the PHD system designers in computer science and electrical engineering. Instead, these consultants were almost all female who studied humanities. However, backed by the director of the ITC, they were given "three wishes" for the Andrew interface. Through this, the concept of the scroll bar was pushed through. They nonetheless had numerous complaints on other things, but the primary engineers focused on those three wishes. 
     I found this to be incredibely interesting. Without that vocal minority, the act of going through text on the internet would be vastly different. While there are similar concepts of paragraph structure, text managment and even visual displays mirrored from real life into a computer interface, I believe that a scroll bar is quite original. The simple act of scrolling down has become second nature to a computer user now, but in our daily lives, text is hardly ever read through the act of scrolling. Simply put, books come in pages, not in everlasting columns. 
     Yet, these scroll bars came to fruition. There was a huge back and forth as the visual appearance of the scroll bar was changed, precise movements on the navigation was implemented and at times, Haas noted, the concept of 'customization as a sacred concept' was invoked by the engineers. But, come Monday morning, people settled down. They saw the scroll bar and it was an improvement. Once more, the concept of, those who ship, win, reigned supreme. 
-    Likewise, the implementation of Menus in Andrew was messy in it's own right. There were issues with menu unwieldiness, middle finger cursor icons and even right stacking menus vs left stacking arguements. These design choices weren't simple and there simply weren't real world examples to derive a coherent bias towards. At times, people who developed muscle memory to menu commands pushed back violently against changes. It was difficult, and some people thought that menus were done completely incorrectly as time progressed. However, One man, (the manager of the UIG), made the decision. He was called the "User Interface 'Czar'" and he decided that left stacking would be implemented throughout all of CMU. 
+    Likewise, the implementation of Menus in Andrew was messy in it's own right. There were issues with menu unwieldiness, middle finger cursor icons and even right stacking menus vs left stacking arguements. These design choices weren't simple and there simply weren't real world examples to derive a coherent bias towards. At times, people who developed muscle memory to menu commands pushed back violently against changes. It was difficult, and some people thought that menus were done completely incorrectly as time progressed. However, one man made the decision. Deemed the Czar, he decided that left stacking would be implemented throughout all of CMU. 
     These various thoughts, emotions and 'best practices' theories were all vital in the creation of the mediation tools that we use today. The history of the GUI isn't an easy one to track down, but it still is a vital one. We might have to fight through "sheer human cussedness" to get things done, but now, more than ever we must realize that all voices are powerful, no matter how much they contradict each other. That the artifacts and tools that we create today, will influence people who use computers and who make huge decisions both now and forevermore. 
     	
 ##HTML5 Planned obsolescences
@@ -30,16 +30,4 @@ In contrast, I'm interested in looking at the continued obselecence of flash in 
 
 Through an analysis of Vygostkyians concepts, I'm curious if Flash influenced the public's understanding of the internet and the younger generation's exposure to it. On a personal basis, I have fond memories of the games that I was able to access through the internet. It became a driving force for why i would log on, how I came to understand drivers, plug-ins and even web browsers. Dare I say, I was educated through gamification?
 
-All jokes laid aside, I'm definitely considering historicizing the rise and downfall of Adobe Flash Player. Whether it's the pedagogy of game design that arose from flash, the origin of Adobe Flash Player or the communities that arose because of that oh-so influential plug-in, I think it's a juicy topic to dig into! 
-
-
-
-
-
-
-
-
-    
-    
-
-
+All jokes laid aside, I'm definitely considering historicizing the rise and downfall of Adobe Flash Player. Whether it's the pedagogy of game design that arose from flash, the origin of Adobe Flash Player or the communities that arose because of that oh-so influential plug-in, I think it's a juicy topic to dig into!
