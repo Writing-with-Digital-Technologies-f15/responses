@@ -15,17 +15,14 @@ Studiopress is a company who sells pressionally-designed themes for WordPress. T
 Back onto the topic of the article, it frovites a bulleted list on how to use the blockquote element in a semantically correct fashion, and advice on how to determine whether to use the blockquote or the aside element. Their suggestions for blockquote usage lends it to be not as fanciful within the content, such as advising the font size used for blockquotes to not be larger than the rest of the text. There's a brief explanation on why the semantic correctness is important, but they also do not end off the article without providing usable CSS for blockquotes.
 
 ## The aims of my historicizing project
-What I'm going to initially aim for with my historicizing project is understanding the usage of &lt;blockquote&gt; on the web both correctly and incorrectky according to semantic rules, and including the literary context behind both. Both citations and pull quotes are valuable elements to writing, but in different areas of writing are their roles more prominent. A claim I think I want to make is that there are factors to why blockquote is used so diversely, despite semantic correctness. One I do know is that it's a common feature on many text editors, including prose.io and , which don't require in depth knowledge of HTML and CSS to use it. There's also how well it works with CSS, bringing in the concept of text design and visual rhetoric, which ties in to the pull quote treatment.
+What I'm going to initially aim for with my historicizing project is understanding the usage of &lt;blockquote&gt; on the web both correctly and incorrectly according to semantic rules, and including the literary context behind both and why it's used as such. Both citations and pull quotes are valuable elements to writing, but in different areas of writing are their roles more prominent. A claim I think I want to make is that there are factors to why blockquote is used so diversely, despite semantic correctness. One I do know is that it's a common feature on many text editors, including prose.io and , which don't require in depth knowledge of HTML and CSS to use it. There's also how well it works with CSS, bringing in the concept of text design and visual rhetoric, which ties in with the pull quote treatment.
 
-[to be continued]
+### Aims (now in bulleted list form)
+- intended purpose of &lt;&gt; according to html and its properties (HTML and CSS)
+- how it's used on the web currently, regardless of semantics
+- current obscurity/diminishing presence of the blockquote in print (including matters of citation in documents)
+- perceived rhetorical value of pull quotes in news stories and articles, as well as in commercial website design (testimonials are often put in blockquotes)
+- application of the contexts from the above two bullets to understand blockquote's varied usage
+- relation to Haas's chapters from her book about technology's own lack of self-determination and transparency despite the myths.
 
-
-
-
-
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+For the third and fourth bullets I have found some articles through EBSCO Host that gave me the idea for those two aims, and it helps to have a slightly broader umbrella to research material for this project. They're also related to the idea of writing practices that has to be involved in this project, which is also convenient. 
