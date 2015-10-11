@@ -1,11 +1,15 @@
 ## Source Annotations
 Mark Pilgrim, Dive Into HTML5, Chapter 4: Let’s Call It a Draw(ing Surface)
+
 [http://diveintohtml5.info/canvas.html]
+
 This chapter of Pilgrim’s Dive Into HTML5 focuses on the basics of the ‘canvas’ element, providing a definition and showing the syntax for it in HTML code. The HTML element will define how large the canvas will be on the web page, and can be assigned an id attribute to allow the developer to work with it more easily. More importantly, it demonstrates that the actual drawing work in the canvas element is done through JavaScript. Pilgrim presents tutorials on how to do specific functions with the canvas, such as drawing easily-editable nonpermanent “paths,” rendering text, creating color gradients and rendering images with either an ‘img’ element or an ‘Image()’ object. Pilgrim shows some JavaScript that allows ‘canvas’ to work properly with older versions of Internet Explorer that don’t natively support it, and ends his chapter with a step-by-step procedure on how to set up a simple board game in ‘canvas.’
 
 
 Steve Fulton & Jeff Fulton, HTML5 Canvas, Chapter 8: Canvas Games: Part 1
+
 [http://chimera.labs.oreilly.com/books/1234000001654/ch08.html#geo_blaster_game_structure]
+
 With previous chapters of their book dedicated to the basics, the Fultons go more in-depth on how ‘canvas’ is used for video game development. Compared to Pilgrim’s article, HTML5 Canvas covers some different topics surrounding ‘canvas,’ such as how it compares to Adobe Flash with advantages and disadvantages of each. This chapter walks through the development of an Asteroids¬-style game in HTML5 called Geo Blaster Basic. This requires, according to the authors, four needed assets: the background, the player character, an enemy character and some ‘rocks’ for the player to shoot. Fulton and Fulton show us how ‘canvas’ and the JavaScript surrounding the element create these four assets. Drawing paths allows the developer to render the player and enemy characters, and the JavaScript function ‘setTimeout()’ allows those characters to animate on a frame-by-frame basis. The keyPressList function is manipulated to allow a player to control their character with inputs from the keyboard. Creating a ‘state machine’ allows the game code to handle different states that each need their own game logic, such as the title screen, when a player starts a level and when the player’s character dies. Finally, JavaScript allows the developer to create their own functions that will pertain to the events of the game.
 
 ## Historicizing Memo
