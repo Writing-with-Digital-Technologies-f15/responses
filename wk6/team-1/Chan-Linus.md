@@ -2,7 +2,14 @@
 
 http://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Tags.html
 
+https://www.ietf.org/rfc.html
+
+This website is called, "Request for Comments". It has its history in the creation of the internet. As programmers worked together and tried to organize "protocols, procedures, programs and concepts", people needed to contact each other. They originally did this through the 'snail mail', or physical mail. However, these 'requests' soon became the foundation of 'email!'. I though that this was highly interesting, because it describes how programmers worked through their documentation in ways the emphasize communication more and more. 
+
 http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet
+
+This article is interesting because it gives a brief history of how the internet developed. I enjoyed a distinct part that  talked about how the internet became increasingly more and more comerciailized. The use of the internet became more homogenied through it. To Quote, "the vendors worked extremely hard to ensure that everyone's products ineroperated with all the other products - even with those of their competitors. " . 
+
 
 http://www.wired.com/2015/10/brief-history-of-the-demise-of-the-comments-timeline/
 
