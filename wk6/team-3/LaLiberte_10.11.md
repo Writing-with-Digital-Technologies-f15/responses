@@ -1,4 +1,4 @@
-##Sources & Annotations
+##Sources & Annotations: `<SPAN>`
 
 ###[fwd:Fonts (Benjamin C.W. Sittler & responses)](http://lists.w3.org/Archives/Public/www-style/1995Jul/thread.html#msg11)
 W3 Public Mailing Lists, July 1995
@@ -20,11 +20,19 @@ Both `<SPAN>` and `<DIV>` are semantically neutral elements, which means they do
 
 Robinson states:
 
-> You will certainly use <div> less often in HTML5 than you did in HTML 4, but it’s still a valuable element to have in your toolkit. Sure, it’ll be picked last for the team because everyone else is better, but it’ll be the best damn generic container element there is!
+> You will certainly use `<div>` less often in HTML5 than you did in HTML 4, but it’s still a valuable element to have in your toolkit. Sure, it’ll be picked last for the team because everyone else is better, but it’ll be the best damn generic container element there is!
 
 This reflects where the `<SPAN>` element stands today, too. While there are other ways to semantically style and differentiate text, `<SPAN>` is what you should use when there isn't an element explicitly for a specific purpose.
 
 ##Memo
+
+My historicizing project will focus on the `<SPAN>` element. So far, I've identified a few key ideas about the `<SPAN>` element and its development that I would like to touch on in the final historicizing project. I'm not sure what's too broad of a scope, or too narrow, so please let me know if you have ideas! I'm still working out the influence of print media on `<SPAN>` development, so feel free to chime in there, too.
+
+- Clarifying the relationship between `<SPAN>` and `<DIV>` (inline/character-based and block elements/flow content) as well as that of semantically neutral and semantically meaningful HTML elements
+- Introducing the ongoing developer discussion of separating content and styling/presentation/semantics, which ties into discussions of accessibility and semantically correct use
+- Consolidation and politics in the history of `<SPAN>` development
+
+Another source I've been reading is the [Internationalization of the Hypertext Markup Language](http://tools.ietf.org/html/draft-ietf-html-i18n-01). This draft first officially introduces the `<SPAN>` element as a way to mark text in different languages, potentially read from right-to-left. `<C>` was included as the generic character-level container of choice in an early HTML draft, but was eventually replaced by `<SPAN>`. This was proposed during a [larger discussion](http://lists.w3.org/Archives/Public/www-style/1995Dec/0039.html) about using the `style` attribute in HTML.
 
 
 
