@@ -1,4 +1,4 @@
-![Blockquote Content Map]({{site.baseurl}}/http://i.imgur.com/fEfZm1s.png)
+[Blockquote Content Map](http://i.imgur.com/fEfZm1s.png)
 
 I assumed that a content tree would be something like this, and it's definitely helpful for drafting out content blocks. The actual content blocks are at the second level (A. B. C.) of the diagram. The subtopics to the left of it are the headers, and the subtopics to the right are some key points from the content blocks.
 
