@@ -7,11 +7,13 @@ The element itself is easy to form in an HTML document. The only code needed to 
 
 /*function draw_b() {
   var b_canvas = document.getElementById("b");
-  var b_context = b_canvas.getContext("2d");*/
+  var b_context = b_canvas.getContext("2d");}*/
   
 This code grabs a canvas with an id=b and defines it as a 2D plane. This creates the canvas's drawing context, where the drawing methods and properties used for the canvas itself are defined. Now, JavaScript bits and even CSS properties like fileStyle can manipulate the canvas.
 
 ## Overview - The Prompting Exigency (Historical context)
+The story of <'canvas'>'s development begins in 2004, with Apple developing the tag for use with their own Safari browser and OSX WebKit component to operate Dashboard items. According to WHATWG specification writer Ian Hickson, Apple developed and introduced <'canvas'> to the Web "without going through any sort of standardization first (not even unofficial standardization like the WHATWG)..." (http://ln.hixie.ch/?start=1089635050&count=1), though WHATWG eventually did standardize the element. The managing editor of sitepoint.com, Adam Roberts, describes a situation that <'canvas'> responds to: 
+"With HTML5’s Canvas API, we’re no longer limited to drawing rectangles on our sites. We can draw anything we can imagine, all through JavaScript. This can improve the performance of our websites by avoiding the need to download images off the network. With canvas, we can draw shapes and lines, arcs and text, gradients and patterns. In addition, canvas gives us the power to manipulate pixels in images and even video." (http://www.sitepoint.com/web-foundations/introduction-html5-canvas-element/) By bringing JavaScript into the picture, <'canvas'> greatly expanded what kinds of graphics web developers could use for their pages.
 
 ## How does <'canvas'> relate to video gaming?
 The <'canvas'> element actually can be used to create video games to be played in a web browser.
