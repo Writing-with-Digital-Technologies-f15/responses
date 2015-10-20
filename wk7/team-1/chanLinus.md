@@ -1,6 +1,8 @@
 ##Content Tree
 I put the file on the website. It's not the most robust of outlines, but I believe it will do. On a sidenote, I am starting to realize how writing on the internet vastly differs from writing a book. The XML talk helped me learn the importance of 'wiki'esque writing. Duckett's book taught me the importance of audience and writing relevant material. 
 
+[URL=http://s1127.photobucket.com/user/linuxbo/media/20151020_101202.jpg.html][IMG]http://i1127.photobucket.com/albums/l630/linuxbo/20151020_101202.jpg[/IMG][/URL]
+
 
 
 ##Content Structural Blocks
@@ -71,4 +73,4 @@ This represents another leap in literacy technology. As opposed to merely readin
 
 Likewise, we see the rise of auto-documentation as well. This, like audio commenting eases the burden on current developers. It describes version control and gives a picture of what the code is intended to do. 
 
-These tools are extremely new and are just another picture of new technologies rising in reaction to old technologies. There are relationships here and they all need to be dug into. 
+These tools are extremely new and are just another picture of new technologies rising in reaction to old technologies. There are relationships here and they all need to be dug into.
