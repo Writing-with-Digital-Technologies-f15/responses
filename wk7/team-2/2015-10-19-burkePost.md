@@ -1,7 +1,7 @@
 ## The canvas of my <'canvas'>
-	I have a proposed site map to use as a model. From the homepage, I have two major content blocks, an overview of the element and how it relates to video gaming, that each split into more specific sections and group related content together. As you get deeper into the site, the subtopics become more specific. I’ll write more about the content blocks I’m planning here. I will add more details and content to each block as I compose my thoughts and research.
+I have a proposed site map to use as a model. From the homepage, I have two major content blocks, an overview of the element and how it relates to video gaming, that each split into more specific sections and group related content together. As you get deeper into the site, the subtopics become more specific. I’ll write more about the content blocks I’m planning here. I will add more details and content to each block as I compose my thoughts and research.
 ## Overview
-	The <'canvas'> element creates a rectangle space on a web page for a developer to manipulate JavaScript to draw graphs and animations as well as handle photo compositions and video processing.
+The <'canvas'> element creates a rectangle space on a web page for a developer to manipulate JavaScript to draw graphs and animations as well as handle photo compositions and video processing.
 ## Overview - How does it work / specs
 	
 ## Overview - The Prompting Exigency
