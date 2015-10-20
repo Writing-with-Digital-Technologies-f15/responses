@@ -26,6 +26,11 @@ The <'canvas'> element actually can be used to create video games to be played i
 ## <'canvas'> and gaming - Trends / practices in its use
 
 ## Discourse - How do gamers / game developers fit in to discourse on canvas?
+As relatively new as <'canvas'> is among web technologies, using it for game development is an even newer idea still. I would suspect that game developers are not quite prominent figures in the discourse surrounding how <'canvas'> works, and that their concerns and desires are not considered as heavily. Conversations saved in the W3C mailing-lists seems to confirm my theory. When the features that favor games are even brought up, developers favor them less to ensure other facets of the HTML work. Quoted from a discussion on GPU acceleration in <'canvas'>:
+
+"It seems to me that one way or another we have to break something. Canvases drawn into once with no animation loop may go blank with GL-based hardware acceleration, whereas most video games will not function properly without it. I much prefer the former to the latter."
+
+"No, we can't break the current implementation. It's perfectly reasonable for an author to draw into a canvas once and expect that the browser will manage it properly."
 
 ## Discourse - Where are canvas games in discourse around gaming as a whole?
 Games developed for the web are relative newcomers in the gaming realm, having only gained a foothold aided by <'canvas'> in the mid-2000's while industry giants like Nintendo and Sony have been operating with dedicated consoles for decades already. The majority of discourse in gaming revolves around these few big names, with "indie" developers off to the side. 
