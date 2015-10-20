@@ -24,6 +24,9 @@ By bringing JavaScript into the picture, <'canvas'> greatly expanded what kinds 
 The <'canvas'> element actually can be used to create video games to be played in a web browser. JavaScript code is used to build the game elements, such as a player character, an image background and game rules such as win conditions and collision detection, which display to the player through the canvas. As one could imagine, browser games built in <'canvas'> are quite the different experience compared to more traditional video games played on a PC or dedicated game consoles.
 
 ## <'canvas'> and gaming - Trends / practices in its use
+Some practices and trends that I wanted to investigate surrounding the use of the <'canvas'> element are:
+- How do browser-based game developers use <'canvas'> to render the visuals and course design of a level for a platform-genre game? How are developers in this scene similar and different? How connected to the developer working in <'canvas'> is a "best practice"?
+- What philosophies do browser-based game developers carry on how to design a "good" platformer level in <'canvas'> and how do these compare with older video game practices, i.e. Nintendo with _Super Mario Bros._, that did not use <'canvas'>?
 
 ## Discourse - How do gamers / game developers fit in to discourse on canvas?
 As relatively new as <'canvas'> is among web technologies, using it for game development is an even newer idea still. I would suspect that game developers are not quite prominent figures in the discourse surrounding how <'canvas'> works, and that their concerns and desires are not considered as heavily. Conversations saved in the W3C mailing-lists seems to confirm my theory. When the features that favor games are even brought up, developers favor them less to ensure other facets of the HTML work. Quoted from a discussion on GPU acceleration in <'canvas'>:
