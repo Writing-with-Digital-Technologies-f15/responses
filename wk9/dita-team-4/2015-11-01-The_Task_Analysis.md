@@ -1,5 +1,5 @@
 ## What is the student’s goal?
-	To publish a post to the WRIT 4662W responses repository on GitHub.com using prose.io
+To publish a post to the WRIT 4662W responses repository on GitHub.com using prose.io
 
 ## What tasks does the user need to perform and accomplish the goal?
 •	Gain access to a computer with internet access
@@ -10,12 +10,14 @@
 ## What are the mental and physical steps required for each task?
 •	Mental
 	Decide what to write a post about 
+    
 •	Physical
 	Type the post in the prose.io interface
 
 ## Who performs the task?
 •	Audience
 	Students enrolled in WRIT 4662W this semester
+    
 •	Experience
 	Novice – advanced experience working with computers
 
