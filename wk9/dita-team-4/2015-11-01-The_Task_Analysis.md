@@ -71,20 +71,29 @@ One post every week
 
 ## What is the sequence of tasks?
  Prerequisite: Access a computer with an internet connection and create a GitHub account that has access to the Writing with Digital Technologies class repository.
+ 
 1.  Navigate to the prose.io webpage.
+
 2.  Click the “Authorize on GitHub” button.
+
 3.  Find “responses” from the list of repositories and click it.
+
 4.  Access your team’s folder for that week.
 	a.  Click on the folder that corresponds with the current week in the semester.
 	b.  Click on the folder that corresponds with your team’s number.
 5.  Click the “New File” button.
+
 6.  Write the post.
 	a.  Type a name for the post in the space at the top of the page.
 	b.  Write in the main body of text.
 	c.  Use the tool bar at the top to create headings, link images, create bolded text, etc.
+    
 7.  Publish the post to GitHub.
+
 a.  Click the “Save” button.
+
 b.  Write some text describing your post in the smaller text box.
+
 c.  Click the “Commit” button.
 
 ## What is the expected result?
