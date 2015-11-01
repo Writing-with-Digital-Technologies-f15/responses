@@ -3,22 +3,29 @@ To publish a post to the WRIT 4662W responses repository on GitHub.com using pro
 
 ## What tasks does the user need to perform and accomplish the goal?
 •	Gain access to a computer with internet access
+
 •	Create a GitHub account
+
 •	Authorize prose.io to post to GitHub
+
 •	Write the post and submit it
 
 ## What are the mental and physical steps required for each task?
 •	Mental
+
 	Decide what to write a post about 
     
 •	Physical
+
 	Type the post in the prose.io interface
 
 ## Who performs the task?
 •	Audience
+
 	Students enrolled in WRIT 4662W this semester
     
 •	Experience
+
 	Novice – advanced experience working with computers
 
 ## When and under what conditions is the task performed?
@@ -40,10 +47,13 @@ To publish a post to the WRIT 4662W responses repository on GitHub.com using pro
 
 ## What does the user need to know about the task?
 •	Duration
+
 	3 minutes if the student has already created post outline, 1 hour if the student has 	not created any outline
 •	Complexity
+
 	Easy for advanced users, easy to medium difficulty for users unfamiliar with GitHub 	/ prose.io
 •	Frequency
+
 	Weekly
 
 ## What is the sequence of tasks?
