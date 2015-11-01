@@ -30,31 +30,44 @@ Novice – advanced experience working with computers
 
 ## When and under what conditions is the task performed?
 •	Requirements
+
 prose.io / GitHub must be set up properly
+
 Student has determined what they will write about
+
 •	Limitations
+
 User cannot complete the goal properly without knowing what they will write about.
+
 •	Environment
+
 Students usually will be in their living space when they write posts for 4662W
 
 ## What are potential distractions to accomplishing the goal?
 •	Troubleshooting
+
 prose.io / GitHub account not set up properly, defects with computer keyboard
+
 •	Alternative path
+
 Student decides to work on other assignments instead, missing the deadline for the 		prose.io post
+
 •	Exception path
+
 No internet connection means user can’t publish the post
 
 ## What does the user need to know about the task?
 •	Duration
 
 3 minutes if the student has already created post outline, 1 hour if the student has 	not created any outline
+
 •	Complexity
 
 Easy for advanced users, easy to medium difficulty for users unfamiliar with GitHub 	/ prose.io
+
 •	Frequency
 
-Weekly
+One post every week
 
 ## What is the sequence of tasks?
  Prerequisite: Access a computer with an internet connection and create a GitHub account that has access to the Writing with Digital Technologies class repository.
