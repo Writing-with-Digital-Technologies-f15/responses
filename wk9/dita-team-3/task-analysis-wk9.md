@@ -29,14 +29,14 @@
     * **complexity:** Easy for advanced users; medium to easy for users publishing content through Prose.io for the first time.
     * **frequency:** Weekly, unless assigned otherwise by instructor.
 8. **What is the sequence of tasks?**
-    1. Open Internet browser.
-    2. Navigate to Github
+	1. Open Internet browser.
+	2. Navigate to Github.
     	a. Login to Github.
-    3. Navigate to Prose.io.
+	3. Navigate to Prose.io.
     	a. Click "Authorize on Github" button.
         b. Click on "responses" project.
         c. Click on appropriate assignment folder (ex. wk 9).
-        d. Click on assigned team folder.
+        d. CLick on assigned team folder.
     4. Click "New File" button to create new markup file
     	a. Rename file using the following format: "LastName-FirstInitial-Wk#".
         b. Replace text in the editor with your content.
