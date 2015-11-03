@@ -17,13 +17,20 @@
     * **role:** Student scholars in F15 WRIT 4662W at UMN.
     * **authority:** Executive authority over post content within framework of instructor and course guidelines. Should adhere to path of readings provided and instructions for posting.
 5. **When and under what conditions is the task performed?**
-    * **requirements:** [juliet]
-    * **limitations:** [juliet]
-    * **environment:** [juliet]
+    * **requirements:** 
+    * GitHub account, Prose.io account that can be accessed through GITHUB.
+    * A post that will be written in Prose.io
+    * **limitations:** 
+    * A student not knowing how to write posts in prose.io and how to publish/commit them. 
+    * **environment:** 
+    * A nice quiet place with no distractions where a student can write a post
 6. **What are potential distractions to accomplishing the goal?**
-    * **troubleshooting:** [juliet]
-    * **alternative path:** [juliet]
-    * **exception path:** [juliet]
+    * **troubleshooting:** 
+    * Unable to connect to prose.io account, and computer having connectivity issues
+    * **alternative path:** 
+    * Student decides to post directly through GITHUB and they forget to follow proper settings for commiting the post
+    * **exception path:** 
+    * Connectivity issues with the computer which results in the student not being able to work on the posts at all.
 7. **What does the user need to know about the task?**
     * **duration:** About 30 minutes.
     * **complexity:** Easy for advanced users; medium to easy for users publishing content through Prose.io for the first time.
