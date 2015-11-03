@@ -31,7 +31,7 @@
 8. **What is the sequence of tasks?**
 	1. Open Internet browser.
 	2. Navigate to Github.
-    	a. Login to Github.
+    3. Login to Github.
 	4. Navigate to Prose.io.
     5. Click "Authorize on Github" button.
     6. Click on "responses" project.
