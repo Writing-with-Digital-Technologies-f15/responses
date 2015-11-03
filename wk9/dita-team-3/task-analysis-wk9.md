@@ -40,6 +40,7 @@
     4. Click "New File" button to create new markup file.
     	a. Rename file using the following format: "LastName-FirstInitial-Wk#".
         b. Replace text in the editor with your content.
-    5. Click "Save" button on the right to commit changes to Github.
+    5. Click "Save" button on the right.
+    6. Click "Commit" to publish changes to Github.
 9. **What is the expected result?**
     * Content is published to Github to be viewed by fellow students and instructor for discussion.
