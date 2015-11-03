@@ -30,7 +30,7 @@
     * **alternative path:** 
     * Student decides to post directly through GITHUB and they forget to follow proper settings for commiting the post
     * **exception path:** 
-    * Connectivity issues with the computer which results in the student not being able to work on the posts at all.
+    * Connectivity issues with the computer, which results in the student not being able to work on the posts at all.
 7. **What does the user need to know about the task?**
     * **duration:** About 30 minutes.
     * **complexity:** Easy for advanced users; medium to easy for users publishing content through Prose.io for the first time.
