@@ -38,7 +38,7 @@
   * Frequency: The student will have to post once a week based on the instructor's directions
   
 8. **What is the sequence of tasks?**
-* The task follows an interesting sequence:
+The task follows an interesting sequence:
 1) Log onto prose.io and register as your Github Account
 2) Navigate to the correct WRIT 4662W folder
 3) Create a File
@@ -47,4 +47,4 @@
 6) Double Check the file by navigating through Github to the required folder
 
 9. **What is the expected result?**
-* The expected result of this task is the creation of a .md file. This task should enable a relatively inexperienced user to create a text document quickly and without having to resort to plaintext. After the completion of this task, the user has posted a new .md file in the correct WRIT 4662W folder in the hopes of pleasing Chris.
+The expected result of this task is the creation of a .md file. This task should enable a relatively inexperienced user to create a text document quickly and without having to resort to plaintext. After the completion of this task, the user has posted a new .md file in the correct WRIT 4662W folder in the hopes of pleasing Chris.
