@@ -1,6 +1,7 @@
 ## Prose.io: Student's Task Analysis
 
 1. **What is the student's goal?**
+
 The student's goal is to post to the WRIT 4662W class GitHub repository using Prose.io. The post will be written in Git-flavored markdown.
 
 2. **What tasks does the student need to preform to accomplish this goal?**
