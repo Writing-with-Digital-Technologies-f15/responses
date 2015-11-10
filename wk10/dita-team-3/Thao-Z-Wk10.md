@@ -8,6 +8,10 @@ More than a schedule, I have listed the revisions I want to make based on import
 
 Connect content with readings, particularly Haas' text on old and  new technology. Potential questions to consider: How has CSS become more effective? How and when was the box model developed? How has it impacted style elements in CSS? What changed?
 
+Revise content and make more concise: determine what can be left alone and what needs to be deleted. Consider whether to keep content on one page, or to separate content into multiple pages.
+
+Incorporate CSS, taking before and after screen shots to include in the final product. Show how the box model affects design.
+
 
 
 
