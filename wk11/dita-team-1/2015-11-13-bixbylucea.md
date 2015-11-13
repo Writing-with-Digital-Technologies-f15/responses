@@ -92,12 +92,19 @@ In general, it would be a good idea to know about coding and writing HTML and CS
 ###What is the sequence of tasks or steps?
 
 1) Decide what part of text you would like centered
+
 2) Access CSS
+
 3) Enter the correct element (p, h1, h2, blockquote, etc) and don't forget the space and then the bracket afterwards!
+
 4) Enter the attribute text-align after a space
+
 5) Enter the value center after a colon and a space
+
 6) Close the brackets
+
 7) Save the CSS or CSS/HTML file
+
 8) Open it in a new web page to see if everything looks correct
 
 ###What is the expected result?
