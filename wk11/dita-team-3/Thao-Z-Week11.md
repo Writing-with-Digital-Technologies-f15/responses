@@ -34,29 +34,29 @@ Of the three chapters, I think chapter 5 will be the most useful for me. There w
 **What is the business goal?** <br>
 Use CSS to create the "box model."
 
-**What tasks does the user need to perform to acccomplish the goal?**
-Create an HTML file.
+**What tasks does the user need to perform to acccomplish the goal?** <br>
+Create an HTML file. <br>
 Use a text editor to type out HTML elements.
 
-**What are the mental and physical steps required for each task?**
-Mental: Decide which HTML elements to use.
+**What are the mental and physical steps required for each task?** <br>
+Mental: Decide which HTML elements to use. <br>
 Physical: Type HTML elements
 
-**Who performs the task?**
-Audience: Web designers
+**Who performs the task?** <br>
+Audience: Web designers <br>
 Experience: Advanced
 
-**When and under what conditions is the task performed?**
-Requirements: An HTML file that CSS file can be linked to; compatible text editor must be installed; working browser must be installed; Internet connection; 
-Limitations: User must know how to use HTML elements
+**When and under what conditions is the task performed?** <br>
+Requirements: An HTML file that CSS file can be linked to; compatible text editor must be installed; working browser must be installed; Internet connection <br>
+Limitations: User must know how to use HTML elements <br>
 Environment: Users are usually creating a Website for business or personal use
 
-**What are potential distractions to accomplishing the goal?**
-Troubleshooting: No Internet connection
-Alternative path: Using online templates to design Website
+**What are potential distractions to accomplishing the goal?** <br>
+Troubleshooting: No Internet connection <br>
+Alternative path: Using online templates to design Website <br>
 Exception path: User does not understand what certain HTML elements do; user does not have 
 
-**What does the user need to know about the task?**
-Duration: Depends on business or personal use of Website
-Complexity: Easy for advanced users; medium to difficult for users that are not familiar with HTML elements
+**What does the user need to know about the task?** <br>
+Duration: Depends on business or personal use of Website <br>
+Complexity: Easy for advanced users; medium to difficult for users that are not familiar with HTML elements <br>
 Frequency: Depends on business or personal use of Website
