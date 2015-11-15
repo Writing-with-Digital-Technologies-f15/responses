@@ -55,11 +55,60 @@ I found it interesting that the selected chapters all mentioned relationship tab
 My understanding is that the difference between "choice" and "unordered" collection-type values is not in the output presentation, but instead in the semantic difference of representing each topic as an exclusive choice instead of a dead-end in a list. Assuming I'm correct, this is an interesting look at semantic attributes and their value, as only someone looking at the output code would recognize the difference between topics organized as choices or simply an unordered list. However, by separating the two using different attribute values, the creators of DITA allow writers the option of presenting choices and unordered lists differently using a stylesheet.
 
 ##Task Analysis
-blah
+1. **What is the user's goal?**
 
+	The user's goal is to select and identify text in an HTML document using the SPAN or DIV element.
 
+2. **What tasks does the student need to perform to accomplish this goal?**
+  * Open the HTML document in a text editor
+  * Find appropriate text
+  * Determine whether the container should be block-level or inline
+  * (Decide to use the DIV or SPAN element)
+  * Insert the opening and closing tags
+  * Add an identifying attribute
+  * Save file/commit changes
+  
+3. **What are the mental and physical steps required for each task?**
+  * Physical: Using device(s) (mouse, computer) to access text editor; navigating with mouse and keyboard; typing with keyboard
+  * Mental: Understanding basic HTML, understanding the difference between block-level and inline elements
+  
+4. **Who performs the task?**
+  * Audience: Users who want to apply meaning or styling to a particular part of their HTML document/website
+  * Experience: Novice/Intermediate - basic prior knowledge of HTML and its elements but may not fully grasp use of specific elements
+  
+5. **When and under what conditions is the task performed?**
+  * Reqirements: Text editor must be installed, HTML document must be written/present
+  * Limitations: The user may not be clear on the use of many HTML elements, and may (once introduced to generic containers) go on to misuse SPAN/DIV; user must know enough to edit/write a basic HTML document; user may not know much about CSS or how attributes + CSS work together
+  * Environment: The user is likely sitting down at a computer
+  
+6. **What are potential distractions to accomplishing the goal?**
+  * Troubleshooting: The user's existing HTML document may not validate
+  * Alternative path: The user may decide to use a semantic element instead of a generic container
+  * Exception path: The user does not already have an HTML document
+  
+7. **What does the user need to know about the task?**
+  * Duration: If the user has not already written the HTML document, this task could take a few hours or even a few days, depending on the desired length of the HTML document. If the document is already written and the text to be selected identified, this task could take less than 10 minutes.
+  * Complexity: Easy for users familar with HTML and the difference between inline/block elements, difficult for users editing in HTML the first time 
+  * Frequency: The user may decide to use this selector again within this HTML document or within other files associated with the same stylesheet.
+  
+8. **What is the sequence of tasks?**
 
+	**1.** Open the HTML document in a text editor
+    
+	**2.** Find appropriate text
+    
+	**3.** Determine whether the container should be block-level or inline
+    
+	_(Decide to use the DIV or SPAN element)_
+        
+	**5.** Insert the opening and closing tags
+    
+	**6.** Add an identifying attribute
+    
+	**7.** Save file/commit changes
+    
+	**8.** Open the HTML file in a browser/check file in HTML validator
 
+9. **What is the expected result?**
 
-
-
+	The expected result of this task is the selection of text at the block- or inline-level. This will allow users to indicate something about the contained text and may lead to integration between this HTML document and a stylesheet.
