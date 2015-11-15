@@ -4,7 +4,7 @@
 
 	The student's goal is to post to the WRIT 4662W class GitHub repository using Prose.io. The post will be written in Git-flavored markdown.
 
-2. **What tasks does the student need to preform to accomplish this goal?**
+2. **What tasks does the student need to perform to accomplish this goal?**
   * Navigate to Prose.io
   * Authorize Prose.io on GitHub
   * (Log in to GitHub)
