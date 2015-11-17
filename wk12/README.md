@@ -23,17 +23,12 @@ In short, what you write during your actual analysis processes is not exactly wh
 
 2. What conceptual tools will direct / guide your inquiry and analysis?
 
-2a. Define such concept(s) as X person defines it in your own words (cf. Haas' move with historical-genetic method, p. 212-213).
-
-2b. Define it within the scope of your own project?
-
-2c. Note any changes, adaptations, transformations, etc. between these definitions, if applicable. NOTE: This may only happen after conducting more analysis of your sources.
+	- 2a. Define such concept(s) as X person defines it in your own words (cf. Haas' move with historical-genetic method, p. 212-213).
+	- 2b. Define it within the scope of your own project?
+	- 2c. Note any changes, adaptations, transformations, etc. between these definitions, if applicable. NOTE: This may only happen after conducting more analysis of your sources.
 
 3. Write about the link between your project's aims and your conceptual tools. What relationship do you see between them and why? How do the conceptual tools aid your analysis? Your aim?
 
-
-### Choose between 4a and 4b, (or do both!), but add a note about your decision why.
-
-4a. Based on what you wrote in #3, modify the original provided historicizing matrix to suit your analytic method needs. In other words, change the structure, columns, tab names, add rows to it, etc. Sketch it out and then write about your modifications below. NOTE: You may not be ready for this yet! If you are unsure about what new column to add and why, write about why you think this way. And, what steps are needed to get there, e.g., looking back at your data.
-
-4b. Based on what you wrote in #3, reread your historicizing project and take copious notes about how weaknesses in your project. What areas could be addressed in more detail? What new implications or connections warrant more attention?
+4. Choose between 4a and 4b, (or do both!), but add a note about your decision why.
+	- 4a. Based on what you wrote in #3, modify the original provided historicizing matrix to suit your analytic method needs. In other words, change the structure, columns, tab names, add rows to it, etc. Sketch it out and then write about your modifications below. NOTE: You may not be ready for this yet! If you are unsure about what new column to add and why, write about why you think this way. And, what steps are needed to get there, e.g., looking back at your data.
+	- 4b. Based on what you wrote in #3, reread your historicizing project and take copious notes about how weaknesses in your project. What areas could be addressed in more detail? What new implications or connections warrant more attention?
