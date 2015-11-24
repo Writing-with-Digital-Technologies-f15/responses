@@ -1,16 +1,6 @@
 
 *NOTE: In progress.
 
-# Historicizing Conceptual Invention Workshop: A Generative Procedure
-
-<small>Disclaimer: This workshop will induce cognitive strain and struggle. (>_<)</small>
-
-## On Analysis and Showing Your Work
-
-In other forms of conceptual and theoretical work, showing your work, or leaving a breadcrumb trail of your interpretive process, is part of the larger end-game (cf. mathematics, science lab work, social science work). The Historicizing project requires a lot of breadcrumb-writing to invent, group, note patterns, and make claims about your mediational means.
-
-In this workshop, you will come away with a deeper sense about how analysis projects of this sort involves writing about and through
-
 	- particular concepts and theories that shape your own work and interpretations;
 	- evidence and data;
 	- how concepts relate to your comparison and contrasting of evidence and data;
@@ -22,6 +12,8 @@ In short, what you write during your actual analysis processes is not exactly wh
 ## Write-It-Out Workshop Prompts
 
 1. Currently, what is your historicizing project's main problem / aim? What broader social dynamics or issues are linked to your mediational means and its use or development over time? (cf. Sarah's linking of Flash to broader issues of proprietary tech to solve open Web issues; Matt's linking of CSS media queries to broader contentions of “designer control”).
+
+Currently, the main aim for my historicizing project is how the CSS box model, compared to the table and other box models, is a better design option for developing a website. I think the issue my project will be addressing is also "designer control." While researching, I found that the box model has some incompatibilities, but developers had hacks they would use to get around the problem. I also found a thread that discussed some of the restrictions using a table for design had, and how the box model allows more freedom for the design layout of a websit. 
 
 2. What conceptual tools will direct / guide your inquiry and analysis?
 
