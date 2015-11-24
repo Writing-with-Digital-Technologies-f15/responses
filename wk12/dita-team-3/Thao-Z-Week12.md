@@ -17,7 +17,8 @@ Currently, the main aim for my historicizing project is how the CSS box model, c
 
 2. What conceptual tools will direct / guide your inquiry and analysis?
 
-	- 2a. Define such concept(s) as X person defines it in your own words (cf. Haas' 		move with historical-genetic method, p. 212-213). <br>
+	- 2a. Define such concept(s) as X person defines it in your own words (cf. Haas' 		move with historical-genetic method, p. 212-213).
+    
 I'm not sure about which concepts I could apply to my project yet. I think the most relevant concept I found so far is Haas' mention of Bijker's constraint/contingency concept in his theory of sociotechnical change. 
 
 	- 2b. Define it within the scope of your own project?
