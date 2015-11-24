@@ -26,7 +26,7 @@ _Choose between 4a and 4b, (or do both!), but add a note about your decision why
 
 _Based on what you wrote in #3, modify the original provided historicizing matrix to suit your analytic method needs. In other words, change the structure, columns, tab names, add rows to it, etc. Sketch it out and then write about your modifications below. NOTE: You may not be ready for this yet! If you are unsure about what new column to add and why, write about why you think this way. And, what steps are needed to get there, e.g., looking back at your data._
 
-Based on what you wrote in #3, reread your historicizing project and take copious notes about how weaknesses in your project. What areas could be addressed in more detail? What new implications or connections warrant more attention?_
+_Based on what you wrote in #3, reread your historicizing project and take copious notes about how weaknesses in your project. What areas could be addressed in more detail? What new implications or connections warrant more attention?_
     
 Right now, my project is mainly defining what CSS is and how it can be used. I plan to remove the information about CSS3 and CSS4, and mention the development of the CSS box model in CSS1 and CSS2.1 only. I also want to get rid of the CSS frameworks section. With the section about browser compatibility, I'm not sure if I want to keep it or not; if I do keep it, I would talk about the compatibility between the box model and browsers. I will keep the box model section, and discuss the differences between the CSS box model, W3C box model, and IE box model. 
 
