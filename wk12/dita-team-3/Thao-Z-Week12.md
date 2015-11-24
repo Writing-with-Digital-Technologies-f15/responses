@@ -6,15 +6,15 @@ Currently, the main aim for my historicizing project is how the CSS box model, c
 
 2. What conceptual tools will direct / guide your inquiry and analysis?
 
-	- 2a. Define such concept(s) as X person defines it in your own words (cf. Haas' 		move with historical-genetic method, p. 212-213).
+2a. Define such concept(s) as X person defines it in your own words (cf. Haas' move with historical-genetic method, p. 212-213).
     
 I'm not sure about which concepts I could apply to my project yet. I think the most relevant concept I found so far is Haas' mention of Bijker's constraint/contingency concept in his theory of sociotechnical change. The constraints are the limits developers face when designing a website, and the contingency are the strategies that developers can use to design a website.
 
-	- 2b. Define it within the scope of your own project?
+2b. Define it within the scope of your own project?
     
- The constraint on box models is browser compatibility; the contingency are the hacks that developers find to get around the incompatibility.
+The constraint on box models is browser compatibility; the contingency are the hacks that developers find to get around the incompatibility.
  
-	- 2c. Note any changes, adaptations, transformations, etc. between these 				definitions, if applicable. NOTE: This may only happen after conducting more 			analysis of your sources.
+2c. Note any changes, adaptations, transformations, etc. between these definitions, if applicable. NOTE: This may only happen after conducting more analysis of your sources.
 
 There is much more to Bijker's concept of constraint/contingency that I have yet to apply to my historicizing project. When I relate the ideas to my topic, I think I will find more sources that talk about the box model to include in my historicizing project.
 
@@ -23,8 +23,10 @@ There is much more to Bijker's concept of constraint/contingency that I have yet
 I think I will focus on comparing the design of a website using a table versus desigining a website using a box model. Bijker's constraint/contingency concept also mentions that there are aspects of old and new technology that must remain constant for technology literacy purposes; I want to find the similarities between a table and box model as well. The box model is also used as aid for other web technologies as well, which I will address in my historicizing project.
 
 4. Choose between 4a and 4b, (or do both!), but add a note about your decision why.
-	- 4a. Based on what you wrote in #3, modify the original provided historicizing matrix to suit your analytic method needs. In other words, change the structure, columns, tab names, add rows to it, etc. Sketch it out and then write about your modifications below. NOTE: You may not be ready for this yet! If you are unsure about what new column to add and why, write about why you think this way. And, what steps are needed to get there, e.g., looking back at your data.
-	- 4b. Based on what you wrote in #3, reread your historicizing project and take copious notes about how weaknesses in your project. What areas could be addressed in more detail? What new implications or connections warrant more attention?
+
+4a. Based on what you wrote in #3, modify the original provided historicizing matrix to suit your analytic method needs. In other words, change the structure, columns, tab names, add rows to it, etc. Sketch it out and then write about your modifications below. NOTE: You may not be ready for this yet! If you are unsure about what new column to add and why, write about why you think this way. And, what steps are needed to get there, e.g., looking back at your data.
+
+4b. Based on what you wrote in #3, reread your historicizing project and take copious notes about how weaknesses in your project. What areas could be addressed in more detail? What new implications or connections warrant more attention?
     
 Right now, my project is mainly defining what CSS is and how it can be used. I plan to remove the information about CSS3 and CSS4, and mention the development of the CSS box model in CSS1 and CSS2.1 only. I also want to get rid of the CSS frameworks section. With the section about browser compatibility, I'm not sure if I want to keep it or not; if I do keep it, I would talk about the compatibility between the box model and browsers. I will keep the box model section, and discuss the differences between the CSS box model, W3C box model, and IE box model. 
 
