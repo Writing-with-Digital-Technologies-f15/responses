@@ -17,7 +17,7 @@ Currently, the main aim for my historicizing project is how the CSS box model, c
 
 2. What conceptual tools will direct / guide your inquiry and analysis?
 
-	- 2a. Define such concept(s) as X person defines it in your own words (cf. Haas' move with historical-genetic method, p. 212-213).
+	- 2a. Define such concept(s) as X person defines it in your own words (cf. Haas' 		move with historical-genetic method, p. 212-213).
 	- 2b. Define it within the scope of your own project?
 	- 2c. Note any changes, adaptations, transformations, etc. between these definitions, if applicable. NOTE: This may only happen after conducting more analysis of your sources.
 
