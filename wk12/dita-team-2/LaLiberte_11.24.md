@@ -52,4 +52,4 @@ Weaknesses:
 - Define living standard, potentially attach as transition between values —> use
 - host images internally
 - Add to use examples, including a "non-standard" + intentional use of SPAN used where another element would do: use this to talk about (the aging web and?) Haas and mediational means/cultural values affecting use 
-- Summarize theoretical connections at end of SPAN today
+- Summarize theoretical connections at end of SPAN today 
